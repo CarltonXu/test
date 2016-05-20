@@ -1,0 +1,9 @@
+apple		35
+T-shirt 	299
+ipad		4500
+iphone		5000
+green-tea	20
+plane		4500000
+banana		40
+car		150000
+coffee 		60
