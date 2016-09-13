@@ -7,3 +7,4 @@ plane		4500000
 banana		40
 car		150000
 coffee 		60
+wahaha          13
