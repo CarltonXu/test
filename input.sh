@@ -1,6 +1,7 @@
 #!/bin/bash
 while :
 do
+# input your name
 read -p "Please input your name:" Name
 if [ "$Name" = "quit" ]; then
     exit 4
